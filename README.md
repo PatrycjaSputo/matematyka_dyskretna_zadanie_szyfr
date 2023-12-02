@@ -15,3 +15,7 @@
 `wyn_zad_2.txt` - wynik do wiadomości z pliku messages.13.in
 
 `wyn_zad_3.txt` - wynik do wiadomości z pliku messages.16.in
+
+## Matematyczne wyjaśnienie
+
+Matematyczne wyjaśnienie znajduje się w folderze zdjecia_matematyczne_wyjasnienie
